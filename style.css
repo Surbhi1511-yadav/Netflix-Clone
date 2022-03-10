@@ -52,3 +52,35 @@
     transform: translate(-50%, -50%);
     z-index:10000;
 }
+.banner .container-box .heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.banner .container-box .heading h2{
+    font-size: 3.125rem;
+    color: #fff;
+    letter-spacing: 2px;
+    width: 80%;
+}
+.banner .container-box .heading h5{
+    font-size: 1.625rem;
+    color: #fff;
+    font-weight: 400;
+    padding: 1rem 0;
+}
+.banner .container-box .heading p{
+    font-size: 1.25rem;
+    color: #fff;
+    font-weight: 500;
+    padding: 15px 0;
+    padding-bottom: 20px;
+}
+.banner .container-box .search{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
