@@ -14,12 +14,12 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    padding: 0 15px;
+    padding: 0 55px;
     z-index: 100000;
 }
 .container .logo img{
-    margin: 40px 0;
-    width: 13%;
+    margin: 20px 0;
+    width: 12%;
 }
 .container .logo a{
     color: #fff;
