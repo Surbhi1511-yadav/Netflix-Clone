@@ -6,3 +6,16 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+.container .logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.container .logo img{
+    margin: 40px;
+    width: 13%;
+}
