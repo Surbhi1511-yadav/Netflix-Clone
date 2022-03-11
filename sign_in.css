@@ -37,5 +37,8 @@ body{
     position: relative;
     max-width: 450px;
     height: 630px;
-    margin-left: 50%;
+    margin-left: 40%;
+    background: rgba(0,0,0,0.75);
+    border-radius: 10px;
+    box-sizing: border-box;
 }
